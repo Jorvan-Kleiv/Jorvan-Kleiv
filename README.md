@@ -8,8 +8,8 @@
 - 🔭 I’m currently working on **full-stack web projects**
 - 🌱 I'm focusing on mastering **modern frontend frameworks** and **robust backend APIs**
 - 💬 Ask me about **React**, **Spring Boot**, **Nuxt.js**, **Laravel**, and more
-- 📫 Reach me at: `your.email@example.com`
-- 🌐 Portfolio: [https://yourportfolio.com](https://yourportfolio.com)
+- 📫 Reach me at: `jorvandjoumpro@gmail.com`
+- 🌐 Portfolio: [https://my-portfolio.com](https://yourportfolio.com)
 
 ---
 
@@ -25,7 +25,7 @@
 
 #### ⚙️ Backend
 
-- Java 17+ / Spring Boot (REST APIs, Spring Data JPA)
+- Java 17+ / Spring Boot (REST APIs, Spring Data JPA, Websockets)
 - PHP / Laravel
 
 #### 🛢️ Databases
