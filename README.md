@@ -62,7 +62,7 @@
 ### 🤝 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-linkedin)  
-[![Email](https://img.shields.io/badge/email-%20me!-red?style=for-the-badge&logo=gmail)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/email-%20me!-red?style=for-the-badge&logo=gmail)](mailto:jorvandjoumpro@gmail.com)
 
 ---
 
