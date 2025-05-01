@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<h1 align="center">Hi 👋, I'm Jorvan Talom</h1>
 <h3 align="center">A passionate Full Stack Developer building modern web applications</h3>
 
 ---
@@ -27,7 +27,6 @@
 
 - Java 17+ / Spring Boot (REST APIs, Spring Data JPA)
 - PHP / Laravel
-- Node.js (basic knowledge)
 
 #### 🛢️ Databases
 
